@@ -26,3 +26,7 @@
 ## Learn more about delegation at 'https://www.gitpod.io/docs/multi-repo-workspaces'
 
 mainConfiguration: https://github.com/gitpod-io/demo-multi-repo-frontend
+
+
+tasks:
+  - command: echo hey
